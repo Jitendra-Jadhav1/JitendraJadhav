@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/525737428/5bbf33f0-d67c-433f-b7e2-8620aee7c10e)](https://jitendra-jadhav1.io)
+[![MasterHead](https://i.postimg.cc/ZRHTsXCQ/image-2f46c370.png)](https://jitendra-jadhav1.io)
 <h1 align="center">Hi 👋, I'm Jitendra Jadhav</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
