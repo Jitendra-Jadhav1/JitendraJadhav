@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra-jadhav1&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-jadhav1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@jitendrajadhav0" target="blank"><img src="https://img.shields.io/twitter/follow/@jitendrajadhav0?logo=twitter&style=for-the-badge" alt="@jitendrajadhav0" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/50ff1acce4b047a6c7999c73/1575826485783-ACKUKX7C7N3MHUX28HOP/Designer+and+Client+3+%28dribbble%29.gif?format=750w)"/>
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/W3HGZYs2/image-6f927c3c.jpg"/>
 - 🔭 I’m currently working in Skramby Technology Solutions. I have 4 years of experience.**
 
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js, MongoDB, React Native, HTML5, CSS3, Bootstrap5, SASS/SCSS, Javascript, Figma, Sketch, AdobeXD, Mobile Design, Web design,Prototyping, Mockups, Infographics, Git, Agile,**
