@@ -1,14 +1,14 @@
 [![MasterHead](https://repository-images.githubusercontent.com/525737428/5bbf33f0-d67c-433f-b7e2-8620aee7c10e)](https://jitendra-jadhav1.io)
 <h1 align="center">Hi 👋, I'm Jitendra Jadhav</h1>
-<h3 align="center">A passionate UI/UX designer and developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra-jadhav1&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-jadhav1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@jitendrajadhav0" target="blank"><img src="https://img.shields.io/twitter/follow/@jitendrajadhav0?logo=twitter&style=for-the-badge" alt="@jitendrajadhav0" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/50ff1acce4b047a6c7999c73/1575826485783-ACKUKX7C7N3MHUX28HOP/Designer+and+Client+3+%28dribbble%29.gif?format=750w)"/>
-- 🔭 I’m currently working on **Unicentric Customer Portal, Mahindra Home Finance, Eppione, Filta Symphony**
+- 🔭 I’m currently working in Skramby Technology Solutions. I have 4 years of experience.**
 
-- 💬 Ask me about **HTML5, CSS3, Bootstrap5, SASS/SCSS, Javascript, Figma, Sketch, AdobeXD, Mobile Design, Web design,Prototyping, Mockups, Infographics, Git, Agile,**
+- 💬 Ask me about **React.js, Next.js, Node.js, Express.js, MongoDB, React Native, HTML5, CSS3, Bootstrap5, SASS/SCSS, Javascript, Figma, Sketch, AdobeXD, Mobile Design, Web design,Prototyping, Mockups, Infographics, Git, Agile,**
 
 - 📫 How to reach me **jitendrajadhav021@gmail.com**
 
